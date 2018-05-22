@@ -1,0 +1,4 @@
+UV0 -> texturing
+UV1 -> lightmap
+il grafico deve fornire due tipi di texture
+in più UV2 -> RTG (realtime global illumination) 

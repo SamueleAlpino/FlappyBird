@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4031 MB
+    Driver:   23.21.13.8792
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.253 seconds
+Platform assembly: D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Sam\aiv\UnityProject\FlappyBird\Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 54.204582 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.565337 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 0.278609 ms (FindLiveObjects: 0.049230 ms CreateObjectMapping: 0.035373 ms MarkObjects: 0.176501 ms  DeleteObjects: 0.016774 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3364 -> priority: 1 
+  Thread -> id: 10c8 -> priority: 1 
+  Thread -> id: 500 -> priority: 1 
+  Thread -> id: 1a58 -> priority: 1 

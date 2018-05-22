@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0a15da5e9fa9ba04fa5d69e18d5250bc
+timeCreated: 1514502339
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 0
+  fontName: HelvetiPixelbyHa
+  fontNames:
+  - HelvetiPixelbyHa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
